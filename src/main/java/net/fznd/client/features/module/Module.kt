@@ -1,6 +1,6 @@
 package net.aspw.client.features.module
 
-import net.aspw.client.Client
+import net.fznd.client.Client
 import net.aspw.client.event.Listenable
 import net.aspw.client.utils.ClientUtils
 import net.aspw.client.utils.MinecraftInstance
